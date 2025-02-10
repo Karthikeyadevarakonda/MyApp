@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Build and output directories
+dist/
+dist-ssr/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE files
+.vscode/
+.idea/
+
+# Misc
+coverage/
